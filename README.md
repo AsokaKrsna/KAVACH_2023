@@ -1,2 +1,2 @@
 # KAVACH_2023
-Project Done With My Team As Part Of KAVACH-2023. 
+As a part of the national hackathon for Kavach-2023, my team and I collaborated on this project. A recovery and decryption attempt was made for WeChat chats. which employ numerous layers of security for both local device storage and data transport. To identify any flaws, we meticulously built the application and performed both static and dynamic analysis. We used research studies as a resource and also put forth our own original ideas to address the problem. The goal was to make it easier for law enforcement to do their job.
